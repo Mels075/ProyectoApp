@@ -1,3 +1,6 @@
+//Realizado por: Melissa Fonseca Rodríguez
+//Instituto Tecnológico de Costa Rica
+
 package com.estimote.proximitycontent;
 
 import android.app.Fragment;
