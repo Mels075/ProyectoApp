@@ -1,3 +1,6 @@
+//Realizado por: Melissa Fonseca Rodríguez
+//Instituto Tecnológico de Costa Rica
+
 //Primer fragmento o ventana que se puede accesar en la aplicación desde el menú, en esta ventana se tiene la información de registro
 
 // También en esta ventana se debe conectar con el servidor para que realice la verificación de los datos y se procede a interpretar la acción a realizar a partir de si se encuentra el usuario en el registro
